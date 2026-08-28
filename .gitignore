@@ -1,0 +1,25 @@
+# HarmonyOS / DevEco Studio
+local.properties
+.hvigor/
+build/
+*/build/
+oh_modules/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Logs and generated assets
+*.log
+output/
+screenshots/
+*.mp4
+*.webm
+
+# Credentials and local configuration
+.env
+.env.*
+*.keystore
+*.p12
+*.jks

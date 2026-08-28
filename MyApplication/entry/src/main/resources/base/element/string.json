@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "AI知识图谱导师模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "AI知识图谱导师主界面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "知识图谱导师"
+    }
+  ]
+}

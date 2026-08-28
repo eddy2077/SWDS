@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/LoginPage",
+    "pages/Index",
+    "pages/GraphPage",
+    "pages/PathPage",
+    "pages/QuizPage",
+    "pages/AIChatPage",
+    "pages/ProfilePage",
+    "pages/LayoutGalleryPage",
+    "pages/LayoutDetailPage",
+    "pages/FavoritesPage"
+  ]
+}
